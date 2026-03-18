@@ -2,7 +2,7 @@
 
 Acest proiect implementează jocul Chicken Invaders cu un editor de navă spațială, folosind C++ și OpenGL (prin gfx-framework). Jucătorul își poate construi propria navă folosind blocuri modulare, iar apoi poate participa la jocul de tip shoot’em up.
 
-![Gameplay](images/chicken_invaders.gif)
+![Gameplay](images/ChickenInvaders.gif)
 
 Funcționalități principale:
 
